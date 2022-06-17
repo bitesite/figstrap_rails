@@ -1,6 +1,6 @@
 # Figstrap Rails
 
-A small Gem wrapper for [FigStrap]((https://github.com/bitesite/figstrap)).
+A small Gem wrapper for [FigStrap](https://github.com/bitesite/figstrap).
 
 ## Installation
 
